@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+# DrawIO backups
+*.drawio.bkp
 # Distribution / packaging
 .Python
 build/
